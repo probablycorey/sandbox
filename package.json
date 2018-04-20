@@ -1,6 +1,7 @@
 {
   "name": "sandbox",
   "version": "1.0.0",
+  "main": "sketch.js",
   "repository": "https://github.com/probablycorey/sandbox.git",
   "author": "Corey Johnson <probablycorey@gmail.com>",
   "license": "MIT",
