@@ -2,4 +2,4 @@
 
 No, evil is in charge!
 
-neato
+ok, now I'm in charge!
