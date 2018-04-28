@@ -1,7 +1,5 @@
 # sandbox
 
-No, evil is in charge!
+Ok cool, it always overwrites the last commit
 
-ok, now I'm in charge!!!
-
-Regular corey is in charge again.. FORCE PUSHING!!
+THIS IS IT! Look, this is working...
